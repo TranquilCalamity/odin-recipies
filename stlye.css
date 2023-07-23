@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+.header {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+    background-color: lightgreen;
+}
